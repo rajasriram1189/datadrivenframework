@@ -12,7 +12,7 @@ import com.w2a.utilities.TestConfig;
 public class TestHostAdd {
 
 	public static void main(String[] args) throws UnknownHostException, AddressException, MessagingException {
-
+		//this is a test to check for git
 		MonitoringMail mail = new MonitoringMail();
 		String messageBody = "http://" + InetAddress.getLocalHost().getHostAddress()
 				+ ":8080/job/DataDrivenLiveProject/Extent_Reports/";
