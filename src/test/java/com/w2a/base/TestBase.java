@@ -35,7 +35,7 @@ public class TestBase {
 	 * log4j.properties, Logger ExtentReports DB Excel Mail ReportNG,
 	 * ExtentReports Jenkins
 	 * 
-	 */
+	 *USING EGIT */
 
 	public static WebDriver driver;
 	public static Properties config = new Properties();
